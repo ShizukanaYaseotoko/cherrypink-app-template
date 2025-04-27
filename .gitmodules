@@ -1,0 +1,3 @@
+[submodule "lib/cherrypink-lib"]
+	path = lib/cherrypink-lib
+	url = https://github.com/ShizukanaYaseotoko/cherrypink-lib
